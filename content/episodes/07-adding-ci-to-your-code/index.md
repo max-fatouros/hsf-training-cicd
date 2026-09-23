@@ -1,4 +1,5 @@
 +++
+aliases = ['/07-adding-ci-to-your-code/']
 exercises = 10
 hidden = false
 keypoints = ["Setting up CI/CD shouldn't be mind-numbing.", 'All defined jobs run in parallel by default.', 'Jobs can be allowed to fail without breaking your CI/CD.']

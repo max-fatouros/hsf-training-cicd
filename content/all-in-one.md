@@ -1,4 +1,5 @@
 +++
+aliases = ['/aio/']
 title = "All-in-One"
 layout = "all-in-one"
 weight = 80

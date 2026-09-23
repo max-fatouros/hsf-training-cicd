@@ -1,4 +1,5 @@
 +++
+aliases = ['/08b-matrix/']
 exercises = 5
 hidden = false
 keypoints = ['Matrices can help make many builds with variations.', "Use Variables whenever it's convenient."]

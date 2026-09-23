@@ -1,4 +1,5 @@
 +++
+aliases = ['/guide/']
 title = 'Instructor Notes'
 +++
 The instructor notes should provide additional discussion useful to instructors,

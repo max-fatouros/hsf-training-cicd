@@ -1,4 +1,5 @@
 +++
+aliases = ['/06-hello-world-ci/']
 exercises = 10
 hidden = false
 keypoints = ['Adding a `.gitlab-ci.yml` is the first step to salvation.', 'Pipelines are made of stages, stages are made of jobs.', 'CI Linters are especially useful to check syntax before pushing changes.']

@@ -1,4 +1,5 @@
 +++
+aliases = ['/01-introduction/']
 exercises = 0
 keypoints = ['CI/CD is crucial for any reproducibility and testing.', 'Take advantage of automation to reduce your workload.']
 objectives = ['Understand why CI/CD is important.', 'Learn what is possible with CI/CD.', 'Find resources to explore in more depth.']

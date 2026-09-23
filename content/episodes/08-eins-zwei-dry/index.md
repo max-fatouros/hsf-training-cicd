@@ -1,4 +1,5 @@
 +++
+aliases = ['/08-eins-zwei-dry/']
 exercises = 10
 hidden = false
 keypoints = ['Hidden jobs can be used as templates with the `extends` parameter.', 'Using job templates allows you to stay DRY!']

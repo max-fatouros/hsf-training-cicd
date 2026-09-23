@@ -1,4 +1,5 @@
 +++
+aliases = ['/05-coffee/']
 exercises = 15
 keypoints = ["You'll be back.", "They're the jedi of the sea."]
 objectives = ['Refresh your mind.']

@@ -1,4 +1,5 @@
 +++
+aliases = ['/setup.html', '/setup/']
 questions = ['What do I need to start?']
 title = 'Setup'
 +++

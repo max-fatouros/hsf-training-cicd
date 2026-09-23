@@ -1,4 +1,5 @@
 +++
+aliases = ['/08c-images/']
 exercises = 5
 hidden = false
 keypoints = ['We can shorten a lot of the setup with Docker images.']

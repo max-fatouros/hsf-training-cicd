@@ -1,4 +1,5 @@
 +++
+aliases = ['/13-plotting-to-take-over-the-world/']
 exercises = 10
 hidden = false
 keypoints = ['Another script, another job, another stage, another artifact.']

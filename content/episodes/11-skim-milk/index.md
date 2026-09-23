@@ -1,4 +1,5 @@
 +++
+aliases = ['/11-skim-milk/']
 exercises = 10
 hidden = false
 keypoints = ['Making jobs aware of each other is pretty easy.', 'Artifacts are pretty neat.', "We're too naive."]

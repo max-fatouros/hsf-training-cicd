@@ -1,4 +1,5 @@
 +++
+aliases = ['/09-coffee/']
 exercises = 15
 keypoints = ['Stupid mistakes happen, but telling a computer to do what you mean versus what you say is hard.']
 objectives = ['Refresh your mind.']

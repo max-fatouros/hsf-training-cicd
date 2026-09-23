@@ -1,4 +1,5 @@
 +++
+aliases = ['/04-understanding-yaml-and-ci/']
 exercises = 0
 hidden = false
 keypoints = ["You should bookmark the GitLab reference on CI/CD. You'll visit that page often.", 'A job is defined by a name and a script, at minimum.', 'Other than job names, reserved keywords are the top-level parameters defined in a YAML file.']

@@ -1,4 +1,5 @@
 +++
+aliases = ['/14-a-simple-test/']
 exercises = 20
 hidden = false
 keypoints = ["This kind of test is a regression test, as we're testing assuming the code up to this point was correct.", 'This is not a unit test. Unit tests would be testing individual pieces of the `atlas/athena` or `CMSSW` code-base, or specific functionality you wrote into your algorithms.']

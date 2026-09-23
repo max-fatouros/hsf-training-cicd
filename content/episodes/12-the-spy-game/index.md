@@ -1,4 +1,5 @@
 +++
+aliases = ['/12-the-spy-game/']
 exercises = 10
 hidden = false
 keypoints = ['Service accounts provide an extra layer of security between the outside world and your account.', 'Environment variables in GitLab CI/CD allow you to hide protected information from others who can see your code.']

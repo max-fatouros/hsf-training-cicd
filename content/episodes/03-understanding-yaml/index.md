@@ -1,4 +1,5 @@
 +++
+aliases = ['/03-understanding-yaml/']
 exercises = 0
 hidden = false
 keypoints = ['YAML is a plain-text format, similar to JSON, useful for configuration.', 'YAML is a superset of JSON, so it contains additional features like comments and anchors, while still supporting JSON.']

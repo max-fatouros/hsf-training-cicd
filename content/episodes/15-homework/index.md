@@ -1,4 +1,5 @@
 +++
+aliases = ['/15-homework/']
 exercises = 30
 hidden = false
 keypoints = ["Use everything you've learned to write your own CI/CD!"]

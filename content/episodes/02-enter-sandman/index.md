@@ -1,4 +1,5 @@
 +++
+aliases = ['/02-enter-sandman/']
 exercises = 10
 hidden = false
 keypoints = ['Exit codes are used to identify if a command or script executed with errors or not.', 'Not everyone respects exit codes.']

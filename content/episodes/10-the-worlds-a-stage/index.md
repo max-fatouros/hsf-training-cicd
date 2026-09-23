@@ -1,4 +1,5 @@
 +++
+aliases = ['/10-the-worlds-a-stage/']
 exercises = 5
 hidden = false
 keypoints = ['Stages allow for a mix of parallel/serial execution.', 'Stages help define job dependencies.']
