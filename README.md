@@ -9,13 +9,13 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/hsf-training/hsf-training-cicd/gh-pages.svg)](https://results.pre-commit.ci/latest/github/hsf-training/hsf-training-cicd/gh-pages)
-[![Deploy lesson](https://github.com/hsf-training/hsf-training-cicd/actions/workflows/pages.yml/badge.svg)](https://github.com/hsf-training/hsf-training-cicd/actions/workflows/pages.yml)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/oer-particle-physics/hsf-training-cicd/gh-pages.svg)](https://results.pre-commit.ci/latest/github/oer-particle-physics/hsf-training-cicd/gh-pages)
+[![Deploy lesson](https://github.com/oer-particle-physics/hsf-training-cicd/actions/workflows/pages.yml/badge.svg)](https://github.com/oer-particle-physics/hsf-training-cicd/actions/workflows/pages.yml)
 
 This repository builds the lesson website with [Hugo Styles][hugo-styles-quickstart].
 
 > **Note**
-> Click [here](https://hsf-training.github.io/hsf-training-cicd/) for the training website!
+> Click [here](https://oer-particle-physics.github.io/hsf-training-cicd/) for the training website!
 
 This learning module explores how to build CI/CD workflows and introduces key GitLab CI/CD concepts, with a focus on ensuring that code remains robust, reproducible, and well preserved.
 
@@ -100,7 +100,7 @@ See the Zenodo record [here](https://doi.org/10.5281/zenodo.22016960).
 [hsf-training-center]: https://hepsoftwarefoundation.org/training/curriculum.html
 [training-center-badge]: https://img.shields.io/badge/HSF%20Training%20Center-browse-ff69b4
 [schools]: https://hepsoftwarefoundation.org/Schools/events.html
-[issues]: https://github.com/hsf-training/hsf-training-cicd/issues
+[issues]: https://github.com/oer-particle-physics/hsf-training-cicd/issues
 [progit]: http://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project
 [allcontrib-emoji-key]: https://allcontributors.org/docs/en/emoji-key
 [gfi-badge]: https://img.shields.io/badge/-good%20first%20issue-gold.svg

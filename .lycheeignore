@@ -17,7 +17,3 @@ https://docs.gitlab.com/ee/ci/yaml/#configuration-parameters
 # Dead personal project on CERN GitLab, kept as the worked example that
 # illustrates the `<project-url>/-/ci/lint` pattern in 06-hello-world-ci.
 https://gitlab.cern.ch/gfidalgo/ci-testing/-/ci/lint
-
-# CITATION.cff only exists in this fork until it is merged upstream, so the
-# footer's citation link to hsf-training/hsf-training-cicd 404s until then.
-https://github.com/hsf-training/hsf-training-cicd/blob/gh-pages/CITATION.cff

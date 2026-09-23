@@ -1,4 +1,4 @@
-baseURL = "https://hsf-training.github.io/hsf-training-cicd/"
+baseURL = "https://oer-particle-physics.github.io/hsf-training-cicd/"
 title = "Continuous Integration / Continuous Deployment (CI/CD) with GitLab"
 locale = "en-US"
 enableGitInfo = true
@@ -40,8 +40,8 @@ disableKinds = ["taxonomy", "term", "RSS"]
   tagline = "Learn to add CI/CD to your project with GitLab."
   description = "An HSF Training lesson on Continuous Integration and Continuous Deployment with GitLab."
   contact = "hsf-training-wg@googlegroups.com"
-  repo = "https://github.com/hsf-training/hsf-training-cicd"
-  docsRepo = "https://github.com/hsf-training/hsf-training-cicd"
+  repo = "https://github.com/oer-particle-physics/hsf-training-cicd"
+  docsRepo = "https://github.com/oer-particle-physics/hsf-training-cicd"
   editBranch = "gh-pages"
   copyrightHolder = "the authors"
   licenseName = "CC BY 4.0"
@@ -132,7 +132,7 @@ disableKinds = ["taxonomy", "term", "RSS"]
       type = "search"
   [[menus.main]]
     name = "GitHub"
-    url = "https://github.com/hsf-training/hsf-training-cicd"
+    url = "https://github.com/oer-particle-physics/hsf-training-cicd"
     weight = 90
     [menus.main.params]
       icon = "github"
